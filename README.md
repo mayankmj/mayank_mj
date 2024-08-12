@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Johari</h1>
 <h3 align="center">A passionate Computer Science Undergraduate, Software Developer, and Competitive Programmer</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 💬 Ask me about **Data Structures and Web development**
-
 
 <h5 align="center">Connect with me:</h5>
 <p align="center">
